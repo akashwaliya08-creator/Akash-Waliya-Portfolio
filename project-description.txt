@@ -1,0 +1,10 @@
+I created a responsive personal portfolio website using HTML5 and CSS3.
+It introduces me, my education, technical skills, and academic projects.
+The website includes navigation links, project cards, and contact information.
+I used CSS styling, Flexbox, and media queries to make the layout suitable for desktop and mobile
+ screens.
+
+
+
+
+
